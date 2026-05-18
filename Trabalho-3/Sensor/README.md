@@ -23,4 +23,4 @@ Projeto usando Arduino com sensor LDR para detectar luz ambiente e controlar um 
   A demonstração do projeto está disponível no arquivo `sensor.gif` dentro dos arquivos do repositório.
 
 ### 📷 Montagem do circuito
-![Circuito do projeto](sensorFT.png)
+![Circuito do projeto](sensorFT.jpeg)
