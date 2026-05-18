@@ -29,3 +29,4 @@ Após o estado 3, o sistema volta ao estado 0 e reinicia o ciclo.
 - LED azul → pino 4  
 - Botão → pino 5  
 
+![Sequenciador de LEDs em funcionamento](sequenciador.gif)
