@@ -31,6 +31,10 @@ Após o estado 3, o sistema volta ao estado 0 e reinicia o ciclo.
 
 ## 🎥 Demonstração
 
+### 🧪 Simulação online
+Você pode ver e interagir com a simulação do projeto aqui:
+
+👉 https://www.tinkercad.com/things/2AwNqvIKLJh-sequenciador-de-leds?sharecode=h19M3iLWU6qmk8sjDJNaExOuh67p9MxL_hQyGR1Daz8
 
 ## 🖼️ Imagem do circuito
 
