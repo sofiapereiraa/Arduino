@@ -34,6 +34,6 @@ O sistema controla três LEDs que simulam um semáforo real, alternando automati
 - LED verde → pino 10
 
 ### 📷 Foto do projeto
-![Foto do circuito](Semaforo.png)
+![Foto do circuito](Semaforo.jpeg)
 
 
