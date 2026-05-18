@@ -33,7 +33,15 @@ O sistema controla três LEDs que simulam um semáforo real, alternando automati
 - LED amarelo → pino 9  
 - LED verde → pino 10
 
+## 🎥 Demonstração 
+
 ### 📷 Foto do projeto
 ![Foto do circuito](Semaforo.jpeg)
+
+### 🧪 Simulação online
+Você pode ver e interagir com a simulação do projeto aqui:
+
+👉 https://www.tinkercad.com/things/jQfuL2q9p2P-semaforo-basico?sharecode=O8mLiMwd3w3At8D1mVAhrwimOae2iaSHi3HSL6K-R3k
+
 
 
