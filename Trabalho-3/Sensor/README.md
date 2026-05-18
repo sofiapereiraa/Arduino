@@ -21,6 +21,8 @@ Projeto usando Arduino com sensor LDR para detectar luz ambiente e controlar um 
 - Para testar mexa no fotoresistor.
 
   A demonstração do projeto está disponível no arquivo `sensor.gif` dentro dos arquivos do repositório.
+  - No GIF do projeto, o sensor LDR está sendo testado com uma lanterna para simular variações de luz.
+Quando a luz da lanterna é aplicada diretamente no sensor, simulando alta intensidade luminosa, o LED é desligado. Quando a luz é reduzida ou removida, o LED volta a acender, demonstrando o funcionamento do sistema de detecção de luminosidade.
 
 ### 📷 Montagem do circuito
 ![Circuito do projeto](sensorFT.jpeg)
