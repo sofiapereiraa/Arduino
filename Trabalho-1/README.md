@@ -31,7 +31,6 @@ Após o estado 3, o sistema volta ao estado 0 e reinicia o ciclo.
 
 ## 🎥 Demonstração
 
-![Sequenciador de LEDs](sequenciador.gif)
 
 ## 🖼️ Imagem do circuito
 
