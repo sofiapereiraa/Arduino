@@ -35,6 +35,8 @@ O sistema controla três LEDs que simulam um semáforo real, alternando automati
 
 ## 🎥 Demonstração 
 
+A demonstração do projeto está disponível no arquivo `semaforo.gif` dentro dos arquivos do repositório.
+
 ### 📷 Foto do projeto
 ![Foto do circuito](Semaforo.jpeg)
 
