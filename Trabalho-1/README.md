@@ -31,6 +31,8 @@ Após o estado 3, o sistema volta ao estado 0 e reinicia o ciclo.
 
 ## 🎥 Demonstração
 
+A demonstração do projeto está disponível no arquivo `sequenciador.gif` dentro dos arquivos do repositório.
+
 ### 🧪 Simulação online
 Você pode ver e interagir com a simulação do projeto aqui:
 
