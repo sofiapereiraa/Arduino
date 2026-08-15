@@ -1,6 +1,6 @@
 # 🎹 Piano Musical com Arduino
 
-Projeto desenvolvido com **Arduino** que simula um pequeno piano musical. Cada botão corresponde a uma nota musical, permitindo tocar diferentes notas e também reproduzir uma sequência musical pré-programada.
+- Projeto desenvolvido com **Arduino** que simula um pequeno piano musical. Cada botão corresponde a uma nota musical, permitindo tocar diferentes notas e também reproduzir uma sequência musical pré-programada.
 ---
 
 ## 📸 Projeto
