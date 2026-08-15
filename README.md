@@ -22,3 +22,5 @@ Projeto que detecta a intensidade de luz ambiente e controla um LED automaticame
 ##  Piano  
 simula um pequeno piano musical. Cada botão corresponde a uma nota musical, permitindo tocar diferentes notas e também reproduzir uma sequência musical pré-programada.
 
+---
+
