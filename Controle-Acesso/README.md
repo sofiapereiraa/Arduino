@@ -23,5 +23,17 @@ O usuário digita a senha utilizando quatro botões, correspondentes aos número
 - VS Code
 - Tinkercad
 
+---
+
+## 📸 Projeto
+
+![Montagem do projeto](Acesso.png)
+
+---
+
+🔗 **Simulação no Tinkercad:**  
+
+https://www.tinkercad.com/things/5o7yKvhDl7r-controle-de-acesso?sharecode=rBwYxlcpqcY145qV7aAYRNQvZRvVbcMN_SBWhpptFwI
+
   
 
