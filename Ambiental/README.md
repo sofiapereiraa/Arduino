@@ -23,5 +23,5 @@ Para atualizar os dados exibidos, é necessário **pressionar novamente o botão
 **Simulação no Tinkercad:**
 https://www.tinkercad.com/things/5BXJOROpp48-monitoramento-ambiental?sharecode=6uFnrYMQGwKQWihlsUN8BK08qsSHs3hLeIJOElC2MSE
 
-https://www.tinkercad.com/things/5o7yKvhDl7r-controle-de-acesso?sharecode=rBwYxlcpqcY145qV7aAYRNQvZRvVbcMN_SBWhpptFwI
+
 
