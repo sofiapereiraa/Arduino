@@ -16,12 +16,11 @@ O projeto possui três botões, cada um responsável por uma leitura:
 Para atualizar os dados exibidos, é necessário **pressionar novamente o botão correspondente ao sensor**. Dessa forma, uma nova leitura é realizada e o valor atualizado é mostrado no LCD.
 
 ---
-## 📸 Projeto
+## Projeto
 
 ![Montagem do projeto](Ambiental.png)
 
-
-🔗 **Simulação no Tinkercad:**
+**Simulação no Tinkercad:**
 https://www.tinkercad.com/things/5BXJOROpp48-monitoramento-ambiental?sharecode=6uFnrYMQGwKQWihlsUN8BK08qsSHs3hLeIJOElC2MSE
 
 https://www.tinkercad.com/things/5o7yKvhDl7r-controle-de-acesso?sharecode=rBwYxlcpqcY145qV7aAYRNQvZRvVbcMN_SBWhpptFwI
