@@ -21,7 +21,7 @@ Para atualizar os dados exibidos, é necessário **pressionar novamente o botão
 ![Montagem do projeto](Ambiental.png)
 
 **Simulação no Tinkercad:**
-https://www.tinkercad.com/things/5BXJOROpp48-monitoramento-ambiental?sharecode=6uFnrYMQGwKQWihlsUN8BK08qsSHs3hLeIJOElC2MSE
+https://www.tinkercad.com/things/jH2pO6igD88-monitoramento-ambiental?sharecode=BoLuyu_WNZRJoZwgMNKswRYAIf14CYlcxl2s2zLL_1Q
 
 
 
