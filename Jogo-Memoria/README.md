@@ -6,7 +6,7 @@ O objetivo é memorizar a sequência de luzes exibida pelos LEDs e reproduzi-la 
 
 ## Demonstração do projeto
 
-![Jogo da Memória com Arduino](memoria.png)
+![Jogo da Memória com Arduino](memoria.jpeg)
 
 ##  Funcionamento
 
