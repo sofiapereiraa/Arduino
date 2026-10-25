@@ -6,7 +6,7 @@ O sistema permite selecionar um ambiente, acessar as opções de controle e visu
 
 ##  Demonstração do projeto
 
-![Sistema de Controle de Luzes](foto.jpeg)
+![Sistema de Controle de Luzes](Foto.jpeg)
 
 ## Funcionamento
 
